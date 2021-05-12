@@ -27,4 +27,5 @@ def read_input(path_to_file):
     with open(path_to_file, newline='') as f:
         reader = csv.reader(f)
         input_data = list(reader)
+        input_data.pop(0)
     return(input_data)
