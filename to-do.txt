@@ -1,0 +1,12 @@
+tasks:
+[*]  Download input
+[*]  Read input
+[*]  Open browser and nav to website
+[*]  Close popup
+[*]  Choose Head
+[*]  Choose Body
+[]  Choose Legs
+[*]  Type Shipping Address
+[]  Wrap Up steps in for-loop
+
+
